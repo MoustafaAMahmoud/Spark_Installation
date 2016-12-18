@@ -1,0 +1,346 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.18)  18 DEC 2016 22:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Install Spark.tex"
+(./Install Spark.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count87
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count88
+\lst@currlwidth=\dimen103
+\lst@column=\count89
+\lst@pos=\count90
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count91
+\lst@lineno=\count92
+\lst@maxwidth=\dimen106
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count93
+\lst@skipnumbers=\count94
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(./Install Spark.aux)
+\openout1 = `"Install Spark.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+\c@lstlisting=\count96
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 29.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+
+Overfull \hbox (248.78207pt too wide) in paragraph at lines 39--40
+\T1/cmr/m/n/10 from a ter-mi-nal prompt: /us-r/bin/ruby -e "$(curl -fsSL https:
+//raw.githubusercontent.com/Homebrew/install/master/install)" 
+ []
+
+
+Overfull \hbox (72.52066pt too wide) in paragraph at lines 41--45
+[]\T1/cmr/m/n/10 Create a log4j.properties file via cd /usr/local/Cellar/apache
+-spark/2.0.0/libexec/conf
+ []
+
+
+Overfull \hbox (91.29385pt too wide) in paragraph at lines 54--55
+[]\T1/cmr/m/n/10 val textFile = sc.textFile("README.md") // textFile: org.apach
+e.spark.rdd.RDD[String]
+ []
+
+
+Overfull \hbox (2.2034pt too wide) in paragraph at lines 74--75
+[]\T1/cmr/m/n/10 curl -O http://downloads.typesafe.com/scala/2.11.7/scala-2.11.
+7.rpm 
+ []
+
+
+Overfull \hbox (63.71616pt too wide) in paragraph at lines 76--77
+[]\T1/cmr/m/n/10 curl -O http://ftp.unicamp.br/pub/apache/maven/maven-3/3.3.9/b
+inaries/apache-
+ []
+
+[1]
+Overfull \hbox (21.19876pt too wide) in paragraph at lines 85--86
+[]\T1/cmr/m/n/10 curl -O http://mirror.nbtelecom.com.br/apache/spark/spark-2.0.
+1/spark-
+ []
+
+
+Overfull \hbox (91.29385pt too wide) in paragraph at lines 95--96
+[]\T1/cmr/m/n/10 val textFile = sc.textFile("README.md") // textFile: org.apach
+e.spark.rdd.RDD[String]
+ []
+
+
+Overfull \hbox (182.62619pt too wide) in paragraph at lines 111--112
+[]\T1/cmr/m/n/10 Install a JDK (Java De-vel-op-ment Kit) from http://www.oracle
+.com/technetwork/java/javase/downloads/index.html
+ []
+
+
+Overfull \hbox (82.09628pt too wide) in paragraph at lines 112--113
+[]\T1/cmr/m/n/10 Download a pre-built ver-sion of Apache Spark from https://spa
+rk.apache.org/downloads.html 
+ []
+
+
+Overfull \hbox (88.45584pt too wide) in paragraph at lines 115--116
+[]\T1/cmr/m/n/10 Download winu-tils.exe from https://github.com/steveloughran/w
+inutils/blob/master/hadoop-
+ []
+
+
+Overfull \hbox (17.55649pt too wide) in paragraph at lines 115--116
+\T1/cmr/m/n/10 2.7.1/bin/winutils.exe and move it into a C:\winutils\bin folder
+ that you’ve
+ []
+
+
+Overfull \hbox (121.05899pt too wide) in paragraph at lines 116--117
+[]\T1/cmr/m/n/10 Open the the c:\spark\conf folder, ahttps://github.com/stevelo
+ughran/winutils/blob/master/hadoop-
+ []
+
+
+Overfull \hbox (9.1141pt too wide) in paragraph at lines 116--117
+\T1/cmr/m/n/10 2.7.1/bin/winutils.exend make sure “-File Name Ex-ten-sion-s�
+� is checked
+ []
+
+
+Overfull \hbox (41.15259pt too wide) in paragraph at lines 116--117
+\T1/cmr/m/n/10 in the “view” tab of Win-dows Ex-plorer. Re-name the log4j.p
+roperties.template
+ []
+
+[2]
+Overfull \hbox (91.29385pt too wide) in paragraph at lines 136--137
+[]\T1/cmr/m/n/10 val textFile = sc.textFile("README.md") // textFile: org.apach
+e.spark.rdd.RDD[String]
+ []
+
+
+Overfull \hbox (73.40396pt too wide) in paragraph at lines 152--153
+[]\T1/cmr/m/n/10 choose the work-ing di-rec-tory Ex: /run/-me-di-a/-moustafaala
+a/-Main_Hard/Work/SparkWS/ 
+ []
+
+[3] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 190.
+
+(/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+) [4]
+(./Install Spark.aux) ) 
+Here is how much of TeX's memory you used:
+ 3629 strings out of 494946
+ 49637 string characters out of 6180980
+ 165260 words of memory out of 5000000
+ 6880 multiletter control sequences out of 15000+600000
+ 16017 words of font info for 35 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 40i,5n,49p,468b,1275s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.e
+nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
+m-super/sfbx2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super
+/sfrm0600.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm09
+00.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on "Install Spark.pdf" (5 pages, 190407 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
